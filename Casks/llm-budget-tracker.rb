@@ -1,7 +1,7 @@
 # Version and sha256 are updated by scripts/publish-release.sh in krohn/llm-budget-tracker for each release.
 cask "llm-budget-tracker" do
-  version "0.1.2"
-  sha256 "eb80dcff538dc6b7dfd5432afb38c962bdf9772b912e3bb5fb547a734fae81cc"
+  version "0.1.3"
+  sha256 "cb538e325b312acec988b7fc9810a51091c82bcd94727d01412b0417fc446869"
 
   url "https://github.com/krohn/llm-budget-tracker/releases/download/v#{version}/LLMBudgetTracker-#{version}.dmg"
   name "LLM Budget Tracker"
